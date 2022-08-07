@@ -1,2 +1,5 @@
-# Analises
-Repositório que será utilizado para a criação de análises exploratória de dados, afins de estudos e treino.
+# Análises
+
+Repositório criado com o objetivo de ser um portifólio de análises de dados, contendo os notebooks¹ de cada análise.
+
+¹. A base de dados utilizada em cada análise está descrita dentro do próprio notebook
